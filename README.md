@@ -3,11 +3,11 @@
 - 👀 I’m interested in Software Engineering and in anything connected with tecnology.
 
 - 🌍 I come from *Spain and Brasil*! You can speak with me in:
-      Language and Communication Skills (%):
-        -> Spanish 100%
-        -> English 100%
-        -> Portuguese 100%
-        -> German 60%
+Language and Communication Skills (%):
+        * Spanish 100%
+        * English 100%
+        * Portuguese 100%
+        * German 60%
 
 - 🌱 I’m am a Computer Engineer, Expert in Cybersecurity and Ethical Hacking (I am a Certified Network Defender by EC-Council)
 
