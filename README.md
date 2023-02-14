@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mathias Moser
 
-- 👀 I’m interested in Software Engineering and in anything connected with tecnology.
+- 👀 I’m interested in Software Engineering, Software Architecture and in anything connected with tecnology.
 
 - 🌍 I come from *Spain and Brasil*! You can speak with me in:
     - Language and Communication Skills (%):
