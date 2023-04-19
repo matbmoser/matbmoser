@@ -19,7 +19,7 @@
 
 
 <details open>
-<summary>💻❤️ My Favorite Programming Languages (and frameworks): </summary>
+<summary>💻❤️ My Favorite Programming Languages (and frameworks/libraries): </summary>
 <br>
 <pre>
     - Python
