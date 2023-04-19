@@ -109,7 +109,7 @@
  </details>
  
 <details>
-<summary>- Additional knowledge:</summary>
+<summary>🔥🎓 Important additional knowledge:</summary>
 <br>
 <pre>
     - 🔒 Cryptography
