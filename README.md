@@ -17,8 +17,10 @@
     - Work Email: mathias.brunkowmoser@cgi.com
     - Personal Email: matbmoser@gmail.com
 
-- 💻❤️ My Favorite Programming Languages (and frameworks):    
-    > **_NOTE:_** I know all this languages in its "Vanilla" version also (without any frameworks)
+<details open>
+<summary>💻❤️ My Favorite Programming Languages (and frameworks): </summary>
+<br>
+<pre>
     - Python
         - Flask
         - TensorFlow
@@ -39,9 +41,15 @@
         - Scripting for batch processes
         - System administration and Pipelines
         
-   > **_EXTRA:_** For Python, JavaScript and Java I like to develop little frameworks (utils or tools) so I can have control of my code ;)
-   
-- ➕ Additional Programming Languages (less experience):
+    
+   > **_EXTRA:_** I know all this languages in its "Vanilla" version also (without any frameworks)
+   For Python, JavaScript and Java I like to develop little frameworks (utils or tools) so I can have control of my code ;)
+</pre>
+</details>
+<details>
+<summary>- ➕ Additional Programming Languages (less experience):</summary>
+<br>
+<pre>
     - Kotlin
         - Android 
     - C
@@ -50,17 +58,28 @@
     - Go
     - Assembler
         - PIC 
+</pre>
+</details>
 
-- 💾 Known Data Bases Languages:
+<details>
+<summary>- 💾 Known Data Bases Languages:</summary>
+<br>
+<pre>
     - MSSQL
     - MYSQL
     - Oracle SQL
     - PSQL
     - NOSQL (File System DBs based on JSON) + (Little Experience with MongoDB)
-    
-- 💡 Well known technologies:
+</pre>
+ </details>
+
+<details>
+<summary>- 💡 Well known technologies:</summary>
+<br>
+<pre>
     - JSON
     - YAML
+    - XML
     - Docker
     - Helm Charts
     - Kubernetes
@@ -85,8 +104,13 @@
     - Hashi Corp Vault
     - Azure and AWS Basics
     - Keycloak
-
-- Additional knowledge:
+ </pre>
+ </details>
+ 
+<details>
+<summary>- Additional knowledge:</summary>
+<br>
+<pre>
     - 🔒 Cryptography
         - Hashing
         - Encryption/Decryption (Symetric and Asymetric)
@@ -136,6 +160,7 @@
         - HTTP & HTTPS
         - WebSocket
         - TLS
-        - SJMP (Secure JSON Message Protocol) (Design by Me) 
-   
+        - SJMP (Secure JSON Message Protocol) (Design by Me)
+ </pre>
+ </details>
        
