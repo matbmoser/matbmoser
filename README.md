@@ -116,6 +116,13 @@
         - Hashing
         - Encryption/Decryption (Symetric and Asymetric)
         - Digital Certificates
+    - 🏢 Industry 4.0 and Smart Cities
+        - Knowledge about Digital Twins
+        - Knowledge about Connected Industry
+    - 🖧 IoT and Networks:
+        - MQTT
+        - Arduino
+        - Cisco IoT
     - 🧑‍💼🔄 CI/CD
         - Jira and Confluence (Atlassian)
         - Microsoft Dev Ops (CI/CD)
