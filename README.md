@@ -17,7 +17,8 @@
     - Work Email: mathias.brunkowmoser@cgi.com
     - Personal Email: matbmoser@gmail.com
 
-- 💻❤️ My Favorite Programming Languages (and frameworks):
+- 💻❤️ My Favorite Programming Languages (and frameworks):    
+    > **_NOTE:_** I know all this languages in its "Vanilla" version also (without any frameworks)
     - Python
         - Flask
         - TensorFlow
@@ -38,8 +39,7 @@
         - Scripting for batch processes
         - System administration and Pipelines
         
-   * I know all this languages in its "Vanilla" version also (without any frameworks)
-   ** For Python, JavaScript and Java I like to develop little frameworks (utils or tools) so I can have control of my code ;)
+   > **_EXTRA:_** For Python, JavaScript and Java I like to develop little frameworks (utils or tools) so I can have control of my code ;)
    
 - ➕ Additional Programming Languages (less experience):
     - Kotlin
