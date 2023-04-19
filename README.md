@@ -121,6 +121,9 @@
         - Microsoft Dev Ops (CI/CD)
         - Gitlab
         - Github
+    -🚄 High Performance Computing (Parallel Programming with Python)
+        - Cuda
+        - OpenMPI 
     - 🔍 Forensic Informatics
         - Autopsy
         - Kali Linux Tools
