@@ -6,16 +6,20 @@
 
 🖥️ I’m am current working as Software Engineer at *[CGI](https://cgi.com) Germany in Stuttgart* at the *[Catena-X Project](https://catena-x.net/en/)*!
 
-📫 You can reach me in this emails:
-    - Work Email: mathias.brunkowmoser@cgi.com
-    - Personal Email: matbmoser@gmail.com
-
-- 🌍 I come from *Spain and Brasil*! You can speak with me in:
-    - Language and Communication Skills (%):
-        - Spanish &nbsp; &nbsp; &nbsp; &nbsp; 0%[====================]100%
-        - English &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;0%[====================]100%
-        - Portuguese &nbsp; 0%[====================]100%
-        - German &nbsp; &nbsp; &nbsp; &ensp;0%[============ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]100%
+<details open><summary>📫 You can reach me in this emails:</summary>
+<pre>
+    - Work Email: <a href="mailto:mathias.brunkowmoser@cgi.com">mathias.brunkowmoser@cgi.com</a>
+    - Personal Email: <a href="mailto:matbmoser@gmail.com">matbmoser@gmail.com</a>
+</pre>
+<details open><summary>🌍 I come from <i>Spain and Brasil</i>! You can speak with me in:</summary>
+<pre>
+    Language and Communication Skills (%):
+        - Spanish &nbsp; &nbsp; &nbsp; 0%[====================]100%
+        - English &nbsp; &nbsp; &nbsp;&nbsp;0%[====================]100%
+        - Portuguese &nbsp;&nbsp; 0%[====================]100%
+        - German &nbsp; &nbsp; &nbsp; &ensp;0%[============ &nbsp; &nbsp; &nbsp; &nbsp;]100%
+</pre>
+</details>
 
 
 <details open>
@@ -48,7 +52,7 @@
 </pre>
 </details>
 <details>
-<summary>- ➕ Additional Programming Languages (less experience):</summary>
+<summary>➕ Additional Programming Languages (less experience):</summary>
 <br>
 <pre>
     - Kotlin
@@ -63,7 +67,7 @@
 </details>
 
 <details>
-<summary>- 💾 Known Data Bases Languages:</summary>
+<summary>💾 Known Data Bases Languages:</summary>
 <br>
 <pre>
     - MSSQL
@@ -75,7 +79,7 @@
  </details>
 
 <details>
-<summary>- 💡 Well known technologies:</summary>
+<summary>💡 Well known technologies:</summary>
 <br>
 <pre>
     - JSON
