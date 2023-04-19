@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary>💾 Known Data Bases Languages:</summary>
+<summary>💾 Known DDBB Languages:</summary>
 <br>
 <pre>
     - MSSQL
