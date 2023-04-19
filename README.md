@@ -128,6 +128,9 @@
         - Knowledge Engineering
     - 📊 Data Mining and Algorithms:
         - Vector Machines 
+    - Open Source Development
+        - Eclipse Dash Tool
+        - Eclipse Foundation Collaboration 
     - Protocols:
         - TCP
         - HTTP & HTTPS
