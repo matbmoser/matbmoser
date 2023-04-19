@@ -14,10 +14,10 @@
 <details open><summary>🌍 I come from <i>Spain and Brasil</i>! You can speak with me in:</summary>
 <pre>
     Language and Communication Skills (%):
-        - Spanish &nbsp; &nbsp; &nbsp; 0%[====================]100%
-        - English &nbsp; &nbsp; &nbsp;&nbsp;0%[====================]100%
-        - Portuguese &nbsp;&nbsp; 0%[====================]100%
-        - German &nbsp; &nbsp; &nbsp; &ensp;0%[============ &nbsp; &nbsp; &nbsp; &nbsp;]100%
+        - Spanish &nbsp; &nbsp; &nbsp; 0%[<a href="">====================</a>]100%
+        - English &nbsp; &nbsp; &nbsp;&nbsp;0%[<a href="">====================</a>]100%
+        - Portuguese &nbsp;&nbsp; 0%[<a href="">====================</a>]100%
+        - German &nbsp; &nbsp; &nbsp; &ensp;0%[<a href="">============</a> &nbsp; &nbsp; &nbsp; &nbsp;]100%
 </pre>
 </details>
 
