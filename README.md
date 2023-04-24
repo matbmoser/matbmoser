@@ -1,10 +1,10 @@
 👋 Hi, I’m **Mathias Moser**
 
-👀 I’m interested in Software Engineering, Software Architecture and in anything connected with technology and innovation.
-
 👨‍🎓 I’m am a Computer Engineer, Expert in Cybersecurity and Ethical Hacking (I am a Certified Network Defender by EC-Council)
 
 🖥️ I’m am current working as Software Engineer at *[CGI](https://cgi.com) Germany in Stuttgart* at the *[Catena-X Project](https://catena-x.net/en/)*!
+
+👀 I’m interested in Software Engineering, Software Architecture and in anything connected with technology and innovation.
 
 <details open><summary>📫 You can reach me in this emails:</summary>
 <pre>
