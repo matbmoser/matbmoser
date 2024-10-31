@@ -8,7 +8,7 @@
 
 <details open><summary>📫 You can reach me in this emails:</summary>
 <pre>
-    - Work Email: <a href="mailto:mathias.brunkowmoser@cgi.com">mathias.brunkowmoser@cgi.com</a>
+    - Work Email: <a href="mailto:mathias.moser@catena-x.net">mathias.brunkowmoser@cgi.com</a>
     - Personal Email: <a href="mailto:matbmoser@gmail.com">matbmoser@gmail.com</a>
 </pre>
 <details open><summary>🌍 I come from <i>Spain and Brasil</i>! You can speak with me in:</summary>
