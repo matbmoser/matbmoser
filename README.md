@@ -2,13 +2,13 @@
 
 👨‍🎓 I’m am a Computer Engineer, Expert in Cybersecurity and Ethical Hacking (I am a Certified Network Defender by EC-Council)
 
-🖥️ I’m am current working as Lead Consultant Software Engineer at *[CGI](https://cgi.com) Germany in Stuttgart* at the *[Catena-X Project](https://catena-x.net/en/)* as **Project Lead** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx)!
+🖥️ I’m am current working as Chief Software Architect at *[Catena-X Automotive Network e.V.](https://catena-x.net)*, I am also a **Project Lead & Committer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx)!
 
 👀 I’m interested in Software Engineering, Software Architecture and in anything connected with technology and innovation.
 
 <details open><summary>📫 You can reach me in this emails:</summary>
 <pre>
-    - Work Email: <a href="mailto:mathias.moser@catena-x.net">mathias.brunkowmoser@cgi.com</a>
+    - Work Email: <a href="mailto:mathias.moser@catena-x.net">mathias.moser@catena-x.net</a>
     - Personal Email: <a href="mailto:matbmoser@gmail.com">matbmoser@gmail.com</a>
 </pre>
 <details open><summary>🌍 I come from <i>Spain and Brasil</i>! You can speak with me in:</summary>
