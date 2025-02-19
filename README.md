@@ -27,6 +27,7 @@
 <br>
 <pre>
     - Python
+        - FAST API
         - Flask
         - TensorFlow
         - Jupiter Notebooks
