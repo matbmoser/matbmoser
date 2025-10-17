@@ -2,7 +2,7 @@
 
 👨‍🎓 I’m am a Computer Engineer, Expert in Cybersecurity and Ethical Hacking (I am a Certified Network Defender by EC-Council)
 
-🖥️ I’m am current working as Chief Software Architect at *[Catena-X Automotive Network e.V.](https://catena-x.net)*, I am also a **Project Lead & Committer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx)!
+🖥️ I’m am current working as Chief Software Architect at *[Catena-X Automotive Network e.V.](https://catena-x.net)*, I am also a **Project Lead & Committer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx)! Additionally I am working at TP4.E Architecture from the [Factory-X](https://factory-x.org) Consortia.
 
 👀 I’m interested in Software Engineering, Software Architecture and in anything connected with technology and innovation.
 
