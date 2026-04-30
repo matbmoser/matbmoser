@@ -158,7 +158,7 @@
     - 📅 Traditional Methodologies (Requirements Engineering):
         - Waterfall
         - ESA Project Management
-    - 🤖Artificial Inteligence and Machine Learning:
+    - 🤖Artificial Intelligence and Machine Learning
         - Simbolic Networks
             - Learning algorithms  
         - Subsimbolic Networks
