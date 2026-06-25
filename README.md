@@ -17,7 +17,7 @@
         - Spanish &nbsp; &nbsp; &nbsp; 0%[<a href="https://github.com/matbmoser">====================</a>]100%
         - English &nbsp; &nbsp; &nbsp;&nbsp;0%[<a href="https://github.com/matbmoser">====================</a>]100%
         - Portuguese &nbsp;&nbsp; 0%[<a href="https://github.com/matbmoser">====================</a>]100%
-        - German &nbsp; &nbsp; &nbsp; &ensp;0%[<a href="https://github.com/matbmoser">============</a> &nbsp; &nbsp; &nbsp; &nbsp;]100%
+        - German &nbsp; &nbsp; &nbsp; &ensp;0%[<a href="https://github.com/matbmoser">================</a> &nbsp; &nbsp;]100%
 </pre>
 </details>
 
