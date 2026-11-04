@@ -11,7 +11,7 @@
   <a href="mailto:mathias.moser@catena-x.net"><img src="https://img.shields.io/badge/Work%20Email-1f3a5f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Work Email" /></a>
   <a href="mailto:matbmoser@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" /></a>
   <a href="https://catena-x.net"><img src="https://img.shields.io/badge/Catena--X-2c5364?style=for-the-badge&logo=databricks&logoColor=white" alt="Catena-X" /></a>
-  <a href="https://github.com/eclipse-tractusx"><img src="https://img.shields.io/badge/Eclipse%20Tractus--X-1b2a3a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiIG92ZXJmbG93PSJoaWRkZW4iPjxkZWZzPjxjbGlwUGF0aCBpZD0iY2xpcDAiPjxyZWN0IHg9IjExNzkiIHk9IjQ1IiB3aWR0aD0iNjMiIGhlaWdodD0iNTgiLz48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iY2xpcDEiPjxyZWN0IHg9IjExNzkiIHk9IjQ1IiB3aWR0aD0iNjMiIGhlaWdodD0iNTkiLz48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iY2xpcDIiPjxyZWN0IHg9IjExNzkiIHk9IjQ1IiB3aWR0aD0iNjMiIGhlaWdodD0iNTkiLz48L2NsaXBQYXRoPjwvZGVmcz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTE3OCAtNDQpIj48Zz48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDApIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDEpIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDIpIj48cGF0aCBkPSJNMTUuNzExIDQ5LjM5QzE0Ljc0NiA1MC4yNDE0IDEzLjUxNDMgNTAuNjYxNSAxMi4yMjU4IDUwLjU4MiAxMC45NDI5IDUwLjUwMjUgOS43Njc5NCA0OS45MjM2IDguOTIyMTkgNDguOTU4NiA3LjE2ODI0IDQ2Ljk2NjIgNy4zNjExOSA0My45MjM4IDkuMzUzNjEgNDIuMTY5OEwxOS4wNTQzIDMzLjYyNyAyNC40NjM4IDI4Ljg2NDYgMzEuNzQwNyAyMi40NTYxIDI2LjMzMTMgMTcuNjkzNyAxOS4wNTQzIDI0LjEwMjIgMTMuNjQ0OCAyOC44NjQ2IDQuNjI1MjUgMzYuODA1N0MtMC4zMjQ0NTMgNDEuMTY1MS0wLjgwMTI1OCA0OC43MzE1IDMuNTUyNDQgNTMuNjgxMiA1LjY2NDAxIDU2LjA3NjYgOC41ODE1OSA1Ny41MDcxIDExLjc2NiA1Ny43MTE0IDEyLjAyNzEgNTcuNzI4NCAxMi4yODI1IDU3LjczNDEgMTIuNTM4IDU3LjczNDEgMTUuNDQ0MiA1Ny43MzQxIDE4LjIxOTkgNTYuNjg5NyAyMC40MjIzIDU0Ljc0ODRMMzEuNzI5NCA0NC43OTIyIDI2LjMyIDQwLjAyOTggMTUuNjk5NyA0OS4zODQzIDE1LjcxMSA0OS4zOVoiIGZpbGw9IiNGQUEwMjMiIGZpbGwtcnVsZT0ibm9uemVybyIgZmlsbC1vcGFjaXR5PSIxIiB0cmFuc2Zvcm09Im1hdHJpeCgxLjAwMTAxIDAgMCAxIDExNzkgNDUpIi8%2BPHBhdGggZD0iTTU5LjU3MDkgNC4wNTQwMkM1NS4yMTE2LTAuODk1NjggNDcuNjQ1MS0xLjM3MjQ4IDQyLjY5NTMgMi45ODEyMUwzMS4zODgyIDEyLjkzNzQgMzYuNzk3NyAxNy42OTk3IDQ3LjQxOCA4LjM0NTI3QzQ4LjMwMzUgNy41Njc2NCA0OS40MjE3IDcuMTQ3NTcgNTAuNTkxMSA3LjE0NzU3IDUwLjY5MzIgNy4xNDc1NyA1MC43OTU0IDcuMTQ3NTcgNTAuOTAzMyA3LjE1ODkzIDUyLjE4NjEgNy4yMzg0IDUzLjM2MSA3LjgxNzQxIDU0LjIwNjkgOC43ODIzNyA1NS45NjA4IDEwLjc3NDcgNTUuNzY3OCAxMy44MTcyIDUzLjc3NTQgMTUuNTcxMUw0NC4wNzQ3IDI0LjExMzkgMzguNjY1MiAyOC44NzYzIDMxLjM4ODIgMzUuMjg0OSAzNi43OTc3IDQwLjA0NzIgNDQuMDc0NyAzMy42Mzg3IDQ5LjQ4NDIgMjguODc2MyA1OC41MDM4IDIwLjkzNTJDNjMuNDUzMiAxNi41NzU4IDYzLjkzMDIgOS4wMDkzNyA1OS41NzY2IDQuMDU5N0w1OS41NzA5IDQuMDU0MDJaIiBmaWxsPSIjRkFBMDIzIiBmaWxsLXJ1bGU9Im5vbnplcm8iIGZpbGwtb3BhY2l0eT0iMSIgdHJhbnNmb3JtPSJtYXRyaXgoMS4wMDEwMSAwIDAgMSAxMTc5IDQ1KSIvPjxwYXRoIGQ9Ik01OC40NjQ0IDM2Ljc3NzYgNDkuNDQ0OCAyOC44MzY1IDQ0LjAzNTQgMzMuNTk4OSA1My43MzYxIDQyLjE0MTdDNTUuNzI4NSA0My44OTU3IDU1LjkyMTQgNDYuOTM4MiA1NC4xNjc1IDQ4LjkzMDUgNTIuNDEzNSA1MC45MTcyIDQ5LjM3MTEgNTEuMTE1OSA0Ny4zNzg3IDQ5LjM2MTlMMzYuNzU4NCA0MC4wMDc0IDMxLjM0ODkgMzUuMjQ1MSAxOC44NzI1IDI0LjI2MTUgMTMuNDYzIDI5LjAyMzkgMjUuOTQ1MSA0MC4wMDc0IDMxLjM1NDYgNDQuNzY5OCA0Mi42NjE3IDU0LjcyNkM0NC45MzIyIDU2LjcyNDEgNDcuNzQ3NiA1Ny43MDYgNTAuNTU3NCA1Ny43MDYgNTMuODcyMyA1Ny43MDYgNTcuMTc1OSA1Ni4zMzgxIDU5LjUzNzIgNTMuNjU4OSA2My44OTY5IDQ4LjcwOTEgNjMuNDE0NCA0MS4xNDI3IDU4LjQ2NDQgMzYuNzgzM0w1OC40NjQ0IDM2Ljc3NzZaIiBmaWxsPSIjQUZDNzJEIiBmaWxsLXJ1bGU9Im5vbnplcm8iIGZpbGwtb3BhY2l0eT0iMSIgdHJhbnNmb3JtPSJtYXRyaXgoMS4wMDEwMSAwIDAgMSAxMTc5IDQ1KSIvPjxwYXRoIGQ9Ik0zNi44MDM4IDE3LjY5OTcgMzEuMzk0MyAxMi45MzczIDIwLjA4NzIgMi45ODY4MUMxNy42OTE4IDAuODc1MjM5IDE0LjYyMDktMC4xNzQ4NjkgMTEuNDMwOSAwLjAyMzggOC4yNDY0OSAwLjIyODE0NSA1LjMyODg5IDEuNjU4NTcgMy4yMTczMiA0LjA1Mzk1IDEuMDYwMzQgNi41MDA0NCAwLjAxMDIyODcgOS42NTY0NCAwLjI3MTMzNyAxMi45MTQ2IDAuNTIxMDkzIDE2LjA3NjMgMi4wODIwNiAxOC45ODgyIDQuNDYwNDIgMjEuMDgyOEwxMy40Njg2IDI5LjAyMzggMTguODc4MSAyNC4yNjE1IDkuMTIwNjIgMTUuNjYxOUM3LjA5NDIgMTMuODc5NiA2LjgyMTczIDEwLjY5NTIgOC42NDM4NSA4LjcwODUyIDkuNDg5NiA3Ljc4ODkxIDEwLjYzNjIgNy4yMzgzNCAxMS44ODUgNy4xNTg4NyAxMy4xNjc4IDcuMDc5MzkgMTQuNDA1MiA3LjQ5OTQ2IDE1LjM3MDIgOC4zNTA4OUwyNS45OTA1IDE3LjcwNTQgMzEuNCAyMi40Njc4IDM4LjY3NjkgMjguODc2MyA0NC4wODY0IDI0LjExMzkgMzYuODA5NSAxNy43MDU0IDM2LjgwMzggMTcuNjk5N1oiIGZpbGw9IiNBRkM3MkQiIGZpbGwtcnVsZT0ibm9uemVybyIgZmlsbC1vcGFjaXR5PSIxIiB0cmFuc2Zvcm09Im1hdHJpeCgxLjAwMTAxIDAgMCAxIDExNzkgNDUpIi8%2BPC9nPjwvZz48L2c%2BPC9nPjwvZz48L3N2Zz4%3D" alt="Eclipse Tractus-X" /></a>
+  <a href="https://github.com/eclipse-tractusx"><img src="https://img.shields.io/badge/Eclipse%20Tractus--X-1b2a3a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2MCIgb3ZlcmZsb3c9ImhpZGRlbiI%2BPGRlZnM%2BPGNsaXBQYXRoIGlkPSJhIj48cGF0aCBkPSJNMTE3OSA0NWg2M3Y1OGgtNjN6Ii8%2BPC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImIiPjxwYXRoIGQ9Ik0xMTc5IDQ1aDYzdjU5aC02M3oiLz48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iYyI%2BPHBhdGggZD0iTTExNzkgNDVoNjN2NTloLTYzeiIvPjwvY2xpcFBhdGg%2BPC9kZWZzPjxnIGNsaXAtcGF0aD0idXJsKCNhKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTExNzggLTQ0KSI%2BPGcgY2xpcC1wYXRoPSJ1cmwoI2IpIj48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxwYXRoIGZpbGw9IiNGQUEwMjMiIGQ9Ik0xMTk0LjcgOTQuNGE1IDUgMCAwIDEtNi44LS40Yy0xLjctMi0xLjUtNSAuNS02LjhsOS43LTguNiA1LjQtNC43IDcuMy02LjQtNS40LTQuOC03LjMgNi40LTUuNCA0LjgtOSA4YTEyIDEyIDAgMCAwIDE1LjcgMTcuOGwxMS40LTEwLTUuNS00Ljd6Ii8%2BPHBhdGggZmlsbD0iI0ZBQTAyMyIgZD0iTTEyMzguNiA0OWExMiAxMiAwIDAgMC0xNi45LTFsLTExLjMgMTAgNS40IDQuNyAxMC43LTkuNHExLjQtMS4xIDMuMS0xLjJoLjRxMS45LjIgMy4zIDEuN2MxLjcgMiAxLjUgNS0uNSA2LjhsLTkuNyA4LjUtNS40IDQuOC03LjMgNi40IDUuNCA0LjcgNy4zLTYuNCA1LjQtNC43IDktOGExMiAxMiAwIDAgMCAxLjEtMTYuOCIvPjxwYXRoIGZpbGw9IiNBRkM3MkQiIGQ9Im0xMjM3LjUgODEuOC05LTgtNS40IDQuOCA5LjcgOC41YTQuOCA0LjggMCAxIDEtNi40IDcuM2wtMTAuNi05LjQtNS40LTQuOC0xMi41LTExLTUuNCA0LjggMTIuNSAxMSA1LjQgNC44IDExLjMgMTBhMTIgMTIgMCAwIDAgMTYuOS0xLjEgMTIgMTIgMCAwIDAtMS0xNyIvPjxwYXRoIGZpbGw9IiNBRkM3MkQiIGQ9Im0xMjE1LjggNjIuNy01LjQtNC44LTExLjMtMTBhMTIgMTIgMCAwIDAtMTYuOSAxLjIgMTIgMTIgMCAwIDAgMS4zIDE3bDkgOCA1LjQtNC44LTkuOC04LjZhNSA1IDAgMCAxLS40LTcgNSA1IDAgMCAxIDYuNy0uM2wxMC42IDkuMyA1LjQgNC44IDcuMyA2LjQgNS40LTQuOHoiLz48L2c%2BPC9nPjwvZz48L3N2Zz4%3D" alt="Eclipse Tractus-X" /></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ I'm a **Computer Engineer and Software Architect** based in **Berlin**, building
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Eclipse Tractus-X Projects
 
 | Project | Description | |
 |:--|:--|:--:|
@@ -44,6 +44,17 @@ I'm a **Computer Engineer and Software Architect** based in **Berlin**, building
 [eclipse-basyx/basyx-python-sdk](https://github.com/eclipse-basyx/basyx-python-sdk) ·
 [eclipse-tractusx/sig-architecture](https://github.com/eclipse-tractusx/sig-architecture) ·
 [eclipse-tractusx/sig-security](https://github.com/eclipse-tractusx/sig-security)
+
+### 🧪 Personal Projects
+
+| Project | Description | |
+|:--|:--|:--:|
+| [**AI Video Review Tool**](https://github.com/matbmoser/ai-video-review-tool) | Frame-accurate review notes for AI-generated videos (Remotion + Claude) that an AI agent can implement directly | ![](https://img.shields.io/github/stars/matbmoser/ai-video-review-tool?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**Learn German Programming**](https://github.com/matbmoser/learn-german-programming) | Learn German like a programming language, with AI-corrected writing exercises up to C1 | ![](https://img.shields.io/github/stars/matbmoser/learn-german-programming?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**Learn to Invest**](https://github.com/matbmoser/learn-to-invest) | Interactive investing academy with a paper-trading simulator and an AI mentor, all in the browser | ![](https://img.shields.io/github/stars/matbmoser/learn-to-invest?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**DPP Generator**](https://github.com/matbmoser/dpp-generator) | Digital Product Passport generator for any JSON schema | ![](https://img.shields.io/github/stars/matbmoser/dpp-generator?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**Simple Wallet**](https://github.com/matbmoser/simple-wallet) | Lightweight Python wallet for signing product-data Verifiable Credentials | ![](https://img.shields.io/github/stars/matbmoser/simple-wallet?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**SOTA**](https://github.com/matbmoser/SOTA) | Parking Time Optimization System, my final degree project, awarded Honors (UFV 2022) | ![](https://img.shields.io/github/stars/matbmoser/SOTA?style=flat-square&color=58A6FF&label=%E2%98%85) |
 
 ---
 
@@ -74,11 +85,7 @@ I'm a **Computer Engineer and Software Architect** based in **Berlin**, building
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <img height="165" src="./profile/stats-light.svg" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-    <img height="165" src="./profile/top-langs-light.svg" alt="Top languages" />
+    <img height="180" src="./profile/stats-light.svg" alt="GitHub stats" />
   </picture>
 </p>
 
