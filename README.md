@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Chief+Software+Architect+%40+Catena-X;Eclipse+Tractus-X+Project+Lead+%26+Committer;TP4.E+Architecture+%40+Factory-X;Certified+Network+Defender+%28EC-Council%29" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Chief+Software+Architect+%40+Catena-X;Eclipse+Tractus-X+Project+Lead+%26+Committer;Cybersecurity+and+Ethical+Hacking+Expert;" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -22,7 +22,6 @@ I'm a **Computer Engineer and Software Architect** based in **Berlin**, building
 
 - 🏗️ **Chief Software Architect** at [Catena-X Automotive Network e.V.](https://catena-x.net)
 - 🚀 **Project Lead & Committer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx), the open-source reference implementation of Catena-X
-- 🏭 **TP4.E Architecture** in the [Factory-X](https://factory-x.org) consortium
 - 🔐 **Certified Network Defender** (EC-Council), with a background in cybersecurity & ethical hacking
 - 🌍 Spanish 🇪🇸 · Portuguese 🇧🇷 · English 🇬🇧 · German 🇩🇪
 
@@ -57,7 +56,7 @@ I'm a **Computer Engineer and Software Architect** based in **Berlin**, building
   <img src="https://img.shields.io/badge/Digital%20Product%20Passport-1f3a5f?style=flat-square" alt="Digital Product Passport" />
   <img src="https://img.shields.io/badge/Self--Sovereign%20Identity-1f3a5f?style=flat-square" alt="SSI" />
   <img src="https://img.shields.io/badge/Cybersecurity-1f3a5f?style=flat-square" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Governance-1f3a5f?style=flat-square" alt="Open Source Governance" />
+  <img src="https://img.shields.io/badge/Community%20Management-1f3a5f?style=flat-square" alt="Community Management" />
 </p>
 
 ### 🛠️ Tech Stack
