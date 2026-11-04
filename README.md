@@ -1,182 +1,99 @@
-👋 Hi, I’m **Mathias Moser**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:2c5364&height=190&section=header&text=Mathias%20Moser&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chief%20Software%20Architect%20%E2%80%A2%20Eclipse%20Tractus-X%20Project%20Lead&descAlignY=58&descSize=18" alt="Mathias Moser" width="100%" />
+</p>
 
-👨‍🎓 I’m am a Computer Engineer, Expert in Cybersecurity and Ethical Hacking (I am a Certified Network Defender by EC-Council)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Chief+Software+Architect+%40+Catena-X;Eclipse+Tractus-X+Project+Lead+%26+Committer;Cybersecurity+and+Ethical+Hacking+Expert" alt="Typing intro" />
+</p>
 
-🖥️ I’m am current working as Chief Software Architect at *[Catena-X Automotive Network e.V.](https://catena-x.net)*, I am also a **Project Lead & Committer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx)! Additionally I am working at TP4.E Architecture from the [Factory-X](https://factory-x.org) Consortia.
+<p align="center">
+  <a href="https://linkedin.com/in/mathias-brunkow-moser"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mathias.moser@catena-x.net"><img src="https://img.shields.io/badge/Work%20Email-1f3a5f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Work Email" /></a>
+  <a href="mailto:matbmoser@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" /></a>
+  <a href="https://catena-x.net"><img src="https://img.shields.io/badge/Catena--X-2c5364?style=for-the-badge&logo=databricks&logoColor=white" alt="Catena-X" /></a>
+  <a href="https://github.com/eclipse-tractusx"><img src="https://img.shields.io/badge/Eclipse%20Tractus--X-1b2a3a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2MCIgb3ZlcmZsb3c9ImhpZGRlbiI%2BPGRlZnM%2BPGNsaXBQYXRoIGlkPSJhIj48cGF0aCBkPSJNMTE3OSA0NWg2M3Y1OGgtNjN6Ii8%2BPC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImIiPjxwYXRoIGQ9Ik0xMTc5IDQ1aDYzdjU5aC02M3oiLz48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iYyI%2BPHBhdGggZD0iTTExNzkgNDVoNjN2NTloLTYzeiIvPjwvY2xpcFBhdGg%2BPC9kZWZzPjxnIGNsaXAtcGF0aD0idXJsKCNhKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTExNzggLTQ0KSI%2BPGcgY2xpcC1wYXRoPSJ1cmwoI2IpIj48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxwYXRoIGZpbGw9IiNGQUEwMjMiIGQ9Ik0xMTk0LjcgOTQuNGE1IDUgMCAwIDEtNi44LS40Yy0xLjctMi0xLjUtNSAuNS02LjhsOS43LTguNiA1LjQtNC43IDcuMy02LjQtNS40LTQuOC03LjMgNi40LTUuNCA0LjgtOSA4YTEyIDEyIDAgMCAwIDE1LjcgMTcuOGwxMS40LTEwLTUuNS00Ljd6Ii8%2BPHBhdGggZmlsbD0iI0ZBQTAyMyIgZD0iTTEyMzguNiA0OWExMiAxMiAwIDAgMC0xNi45LTFsLTExLjMgMTAgNS40IDQuNyAxMC43LTkuNHExLjQtMS4xIDMuMS0xLjJoLjRxMS45LjIgMy4zIDEuN2MxLjcgMiAxLjUgNS0uNSA2LjhsLTkuNyA4LjUtNS40IDQuOC03LjMgNi40IDUuNCA0LjcgNy4zLTYuNCA1LjQtNC43IDktOGExMiAxMiAwIDAgMCAxLjEtMTYuOCIvPjxwYXRoIGZpbGw9IiNBRkM3MkQiIGQ9Im0xMjM3LjUgODEuOC05LTgtNS40IDQuOCA5LjcgOC41YTQuOCA0LjggMCAxIDEtNi40IDcuM2wtMTAuNi05LjQtNS40LTQuOC0xMi41LTExLTUuNCA0LjggMTIuNSAxMSA1LjQgNC44IDExLjMgMTBhMTIgMTIgMCAwIDAgMTYuOS0xLjEgMTIgMTIgMCAwIDAtMS0xNyIvPjxwYXRoIGZpbGw9IiNBRkM3MkQiIGQ9Im0xMjE1LjggNjIuNy01LjQtNC44LTExLjMtMTBhMTIgMTIgMCAwIDAtMTYuOSAxLjIgMTIgMTIgMCAwIDAgMS4zIDE3bDkgOCA1LjQtNC44LTkuOC04LjZhNSA1IDAgMCAxLS40LTcgNSA1IDAgMCAxIDYuNy0uM2wxMC42IDkuMyA1LjQgNC44IDcuMyA2LjQgNS40LTQuOHoiLz48L2c%2BPC9nPjwvZz48L3N2Zz4%3D" alt="Eclipse Tractus-X" /></a>
+</p>
 
-👀 I’m interested in Software Engineering, Software Architecture and in anything connected with technology and innovation.
+---
 
-<details open><summary>📫 You can reach me in this emails:</summary>
-<pre>
-    - Work Email: <a href="mailto:mathias.moser@catena-x.net">mathias.moser@catena-x.net</a>
-    - Personal Email: <a href="mailto:matbmoser@gmail.com">matbmoser@gmail.com</a>
-</pre>
-<details open><summary>🌍 I come from <i>Spain and Brasil</i>! You can speak with me in:</summary>
-<pre>
-    Language and Communication Skills (%):
-        - Spanish &nbsp; &nbsp; &nbsp; 0%[<a href="https://github.com/matbmoser">====================</a>]100%
-        - English &nbsp; &nbsp; &nbsp;&nbsp;0%[<a href="https://github.com/matbmoser">====================</a>]100%
-        - Portuguese &nbsp;&nbsp; 0%[<a href="https://github.com/matbmoser">====================</a>]100%
-        - German &nbsp; &nbsp; &nbsp; &ensp;0%[<a href="https://github.com/matbmoser">================</a> &nbsp; &nbsp;]100%
-</pre>
-</details>
+### 👋 About
 
+I'm a **Computer Engineer and Software Architect** based in **Berlin**, building the open, interoperable data ecosystems behind the European automotive and manufacturing industries.
 
-<details open>
-<summary>💻❤️ My Favorite Programming Languages (and frameworks/libraries): </summary>
-<br>
-<pre>
-    - Python
-        - FAST API
-        - Flask
-        - TensorFlow
-        - Jupiter Notebooks
-        - Panda & Numpy
-    - JavaScript
-        - Vue.js (v2 & v3)
-        - Vanilla
-        - TypeScript
-    - Java
-        - Spring Boot
-        - Vaadin
-    - C#
-        - ASP.NET
-    - PHP
-        - Laravel 
-    - Bash
-        - Scripting for batch processes
-        - System administration and Pipelines
-        
-    
-   > **_EXTRA:_** I know all this languages in its "Vanilla" version also (without any frameworks)
-   For Python, JavaScript and Java I like to develop little frameworks (utils or tools) so I can have control of my code ;)
-</pre>
-</details>
-<details>
-<summary>➕ Additional Programming Languages (less experience):</summary>
-<br>
-<pre>
-    - Kotlin
-        - Android 
-    - C
-    - Matlab
-    - R
-    - Go
-    - Assembler
-        - PIC 
-</pre>
-</details>
+- 🏗️ **Chief Software Architect** at [Catena-X Automotive Network e.V.](https://catena-x.net)
+- 🚀 **Project Lead & Committer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx), the open-source reference implementation of Catena-X
+- 🔐 **Certified Network Defender** (EC-Council), with a background in cybersecurity & ethical hacking
+- 🌍 Spanish 🇪🇸 · Portuguese 🇧🇷 · English 🇬🇧 · German 🇩🇪
 
-<details>
-<summary>💾 Known DataBase Languages:</summary>
-<br>
-<pre>
-    - MSSQL
-    - MYSQL
-    - Oracle SQL
-    - PSQL
-    - NOSQL (File System DBs based on JSON) + (Little Experience with MongoDB)
-</pre>
- </details>
+---
 
-<details>
-<summary>💡 Well known technologies:</summary>
-<br>
-<pre>
-    - JSON
-    - YAML
-    - XML
-    - Docker
-    - Helm Charts
-    - Kubernetes
-    - Minikube
-    - Web Sockets
-    - HTML + CSS
-    - Bootstrap
-    - HTTP Protocol
-    - Maven and Graddle
-    - Apache Jmeter
-    - Postman
-    - InteliJ
-    - Visual Studio Code
-    - Kali Linux
-    - Veracode
-    - Sonar Cloud
-    - Trivy
-    - Invicti
-    - Github Workflows (Yaml Pipelines)
-    - Jenkins
-    - Heroku
-    - Hashi Corp Vault
-    - Azure and AWS Basics
-    - Keycloak
- </pre>
- </details>
- 
-<details>
-<summary>🔥🎓 Important additional knowledge:</summary>
-<br>
-<pre>
-    - 🔒 Cryptography
-        - Hashing
-        - Encryption/Decryption (Symetric and Asymetric)
-        - Digital Certificates
-    - 🏢 Industry 4.0 and Smart Cities
-        - Knowledge about Digital Twins
-        - Knowledge about Connected Industry
-    - 🖧 IoT and Networks:
-        - MQTT
-        - Arduino
-        - Cisco IoT
-    - 🧑‍💼🔄 CI/CD
-        - Jira and Confluence (Atlassian)
-        - Microsoft Dev Ops (CI/CD)
-        - Gitlab
-        - Github
-    -🚄 High Performance Computing (Parallel Programming with Python)
-        - Cuda
-        - OpenMPI 
-    - 🔍 Forensic Informatics
-        - Autopsy
-        - Kali Linux Tools
-        - Stenography
-    - 🔏 Secure Development and Cybersecurity
-        - OWASP Pentesting Tools like OWASP ZAP (Learned with JuiceShop)
-        - IAM Management (Keycloak, Azure)
-        - Secrets Managemennt
-        - Wireshark
-    - ⛓️ Blockchain (knowledge)
-        - Polkadot
-        - Ethereum
-        - Bitcoin
-    - 👥 UI/UX HCI:
-        - Design Patterns
-        - Accesibility Compliance W3C (A, AA & AAA)
-    - ⏩ Agile Methodologies:
-        - Extreme Programming
-        - Scrum Methodology
-    - 📅 Traditional Methodologies (Requirements Engineering):
-        - Waterfall
-        - ESA Project Management
-    - 🤖Artificial Intelligence and Machine Learning
-        - Simbolic Networks
-            - Learning algorithms  
-        - Subsimbolic Networks
-            - Perceptron 
-            - Deep Learning (CNN, GAN, RNN)
-        - Genetic Algorithms 
-        - Knowledge Engineering
-    - 📊 Data Mining and Algorithms:
-        - Vector Machines 
-    - Open Source Development
-        - Eclipse Dash Tool
-        - Eclipse Foundation Collaboration 
-    - Protocols:
-        - TCP
-        - HTTP & HTTPS
-        - WebSocket
-        - TLS
-        - SJMP (Secure JSON Message Protocol) (Design by Me)
- </pre>
- </details>
-       
+### 🚀 Eclipse Tractus-X Projects
+
+| Project | Description | Stars |
+|:--|:--|:--:|
+| [**Industry Core Hub**](https://github.com/eclipse-tractusx/industry-core-hub) | The KIT / use-case speedway for onboarding to Catena-X dataspaces | ![](https://img.shields.io/github/stars/eclipse-tractusx/industry-core-hub?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Tractus-X SDK**](https://github.com/eclipse-tractusx/tractusx-sdk) | Dataspace & Industry Foundation middleware for building Tractus-X applications | ![](https://img.shields.io/github/stars/eclipse-tractusx/tractusx-sdk?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Digital Product Pass**](https://github.com/eclipse-tractusx/digital-product-pass) | Reference implementation of the EcoPass KIT for Digital, Battery & Transmission Passports | ![](https://img.shields.io/github/stars/eclipse-tractusx/digital-product-pass?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Tractus-X Test Lab**](https://github.com/eclipse-tractusx/tractusx-testlab) | Dataspace-native testing framework automating test executables on top of the SDK | ![](https://img.shields.io/github/stars/eclipse-tractusx/tractusx-testlab?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+
+**Also contributing to:**
+[eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc) ·
+[eclipse-tractusx/sldt-digital-twin-registry](https://github.com/eclipse-tractusx/sldt-digital-twin-registry) ·
+[eclipse-tractusx/tractus-x-umbrella](https://github.com/eclipse-tractusx/tractus-x-umbrella) ·
+[eclipse-edc/IdentityHub](https://github.com/eclipse-edc/IdentityHub) ·
+[eclipse-basyx/basyx-python-sdk](https://github.com/eclipse-basyx/basyx-python-sdk) ·
+[eclipse-tractusx/sig-architecture](https://github.com/eclipse-tractusx/sig-architecture) ·
+[eclipse-tractusx/sig-security](https://github.com/eclipse-tractusx/sig-security)
+
+### 🧪 Personal Projects
+
+| Project | Description | Stars |
+|:--|:--|:--:|
+| [**AI Video Review Tool**](https://github.com/matbmoser/ai-video-review-tool) | Frame-accurate review notes for AI-generated videos (Remotion + Claude) that an AI agent can implement directly | ![](https://img.shields.io/github/stars/matbmoser/ai-video-review-tool?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Learn German Programming**](https://github.com/matbmoser/learn-german-programming) | Learn German like a programming language, with AI-corrected writing exercises up to C1 | ![](https://img.shields.io/github/stars/matbmoser/learn-german-programming?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Learn to Invest**](https://github.com/matbmoser/learn-to-invest) | Interactive investing academy with a paper-trading simulator and an AI mentor, all in the browser | ![](https://img.shields.io/github/stars/matbmoser/learn-to-invest?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**DPP Generator**](https://github.com/matbmoser/dpp-generator) | Digital Product Passport generator for any JSON schema | ![](https://img.shields.io/github/stars/matbmoser/dpp-generator?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Simple Wallet**](https://github.com/matbmoser/simple-wallet) | Lightweight Python wallet for signing product-data Verifiable Credentials | ![](https://img.shields.io/github/stars/matbmoser/simple-wallet?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**SOTA**](https://github.com/matbmoser/SOTA) | Parking Time Optimization System, my final degree project, awarded Honors (UFV 2022) | ![](https://img.shields.io/github/stars/matbmoser/SOTA?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+
+---
+
+### 🧭 Focus Areas
+
+<p>
+  <img src="https://img.shields.io/badge/Software%20Architecture-1f3a5f?style=flat-square" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/Data%20Spaces-1f3a5f?style=flat-square" alt="Data Spaces" />
+  <img src="https://img.shields.io/badge/Digital%20Twins%20(AAS)-1f3a5f?style=flat-square" alt="Digital Twins" />
+  <img src="https://img.shields.io/badge/Digital%20Product%20Passport-1f3a5f?style=flat-square" alt="Digital Product Passport" />
+  <img src="https://img.shields.io/badge/Self--Sovereign%20Identity-1f3a5f?style=flat-square" alt="SSI" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1f3a5f?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Community%20Management-1f3a5f?style=flat-square" alt="Community Management" />
+</p>
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,react,vue,cs&theme=dark" alt="Languages and frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,postgres,azure,aws,linux,git&theme=dark" alt="Platforms and tools" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img height="180" src="./profile/stats-light.svg" alt="GitHub stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/contributions-dark.svg" />
+    <img width="98%" src="./profile/contributions-light.svg" alt="Contribution graph" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1f3a5f,100:0d1117&height=110&section=footer" width="100%" alt="" />
