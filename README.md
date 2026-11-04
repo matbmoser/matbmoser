@@ -29,12 +29,12 @@ I'm a **Computer Engineer and Software Architect** based in **Berlin**, building
 
 ### 🚀 Eclipse Tractus-X Projects
 
-| Project | Description | |
+| Project | Description | Stars |
 |:--|:--|:--:|
-| [**Industry Core Hub**](https://github.com/eclipse-tractusx/industry-core-hub) | The KIT / use-case speedway for onboarding to Catena-X dataspaces | ![](https://img.shields.io/github/stars/eclipse-tractusx/industry-core-hub?style=flat-square&color=58A6FF&label=%E2%98%85) |
-| [**Tractus-X SDK**](https://github.com/eclipse-tractusx/tractusx-sdk) | Dataspace & Industry Foundation middleware for building Tractus-X applications | ![](https://img.shields.io/github/stars/eclipse-tractusx/tractusx-sdk?style=flat-square&color=58A6FF&label=%E2%98%85) |
-| [**Digital Product Pass**](https://github.com/eclipse-tractusx/digital-product-pass) | Reference implementation of the EcoPass KIT for Digital, Battery & Transmission Passports | ![](https://img.shields.io/github/stars/eclipse-tractusx/digital-product-pass?style=flat-square&color=58A6FF&label=%E2%98%85) |
-| [**Tractus-X Test Lab**](https://github.com/eclipse-tractusx/tractusx-testlab) | Dataspace-native testing framework automating test executables on top of the SDK | ![](https://img.shields.io/github/stars/eclipse-tractusx/tractusx-testlab?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**Industry Core Hub**](https://github.com/eclipse-tractusx/industry-core-hub) | The KIT / use-case speedway for onboarding to Catena-X dataspaces | ![](https://img.shields.io/github/stars/eclipse-tractusx/industry-core-hub?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Tractus-X SDK**](https://github.com/eclipse-tractusx/tractusx-sdk) | Dataspace & Industry Foundation middleware for building Tractus-X applications | ![](https://img.shields.io/github/stars/eclipse-tractusx/tractusx-sdk?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Digital Product Pass**](https://github.com/eclipse-tractusx/digital-product-pass) | Reference implementation of the EcoPass KIT for Digital, Battery & Transmission Passports | ![](https://img.shields.io/github/stars/eclipse-tractusx/digital-product-pass?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Tractus-X Test Lab**](https://github.com/eclipse-tractusx/tractusx-testlab) | Dataspace-native testing framework automating test executables on top of the SDK | ![](https://img.shields.io/github/stars/eclipse-tractusx/tractusx-testlab?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
 
 **Also contributing to:**
 [eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc) ·
@@ -47,14 +47,14 @@ I'm a **Computer Engineer and Software Architect** based in **Berlin**, building
 
 ### 🧪 Personal Projects
 
-| Project | Description | |
+| Project | Description | Stars |
 |:--|:--|:--:|
-| [**AI Video Review Tool**](https://github.com/matbmoser/ai-video-review-tool) | Frame-accurate review notes for AI-generated videos (Remotion + Claude) that an AI agent can implement directly | ![](https://img.shields.io/github/stars/matbmoser/ai-video-review-tool?style=flat-square&color=58A6FF&label=%E2%98%85) |
-| [**Learn German Programming**](https://github.com/matbmoser/learn-german-programming) | Learn German like a programming language, with AI-corrected writing exercises up to C1 | ![](https://img.shields.io/github/stars/matbmoser/learn-german-programming?style=flat-square&color=58A6FF&label=%E2%98%85) |
-| [**Learn to Invest**](https://github.com/matbmoser/learn-to-invest) | Interactive investing academy with a paper-trading simulator and an AI mentor, all in the browser | ![](https://img.shields.io/github/stars/matbmoser/learn-to-invest?style=flat-square&color=58A6FF&label=%E2%98%85) |
-| [**DPP Generator**](https://github.com/matbmoser/dpp-generator) | Digital Product Passport generator for any JSON schema | ![](https://img.shields.io/github/stars/matbmoser/dpp-generator?style=flat-square&color=58A6FF&label=%E2%98%85) |
-| [**Simple Wallet**](https://github.com/matbmoser/simple-wallet) | Lightweight Python wallet for signing product-data Verifiable Credentials | ![](https://img.shields.io/github/stars/matbmoser/simple-wallet?style=flat-square&color=58A6FF&label=%E2%98%85) |
-| [**SOTA**](https://github.com/matbmoser/SOTA) | Parking Time Optimization System, my final degree project, awarded Honors (UFV 2022) | ![](https://img.shields.io/github/stars/matbmoser/SOTA?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**AI Video Review Tool**](https://github.com/matbmoser/ai-video-review-tool) | Frame-accurate review notes for AI-generated videos (Remotion + Claude) that an AI agent can implement directly | ![](https://img.shields.io/github/stars/matbmoser/ai-video-review-tool?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Learn German Programming**](https://github.com/matbmoser/learn-german-programming) | Learn German like a programming language, with AI-corrected writing exercises up to C1 | ![](https://img.shields.io/github/stars/matbmoser/learn-german-programming?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Learn to Invest**](https://github.com/matbmoser/learn-to-invest) | Interactive investing academy with a paper-trading simulator and an AI mentor, all in the browser | ![](https://img.shields.io/github/stars/matbmoser/learn-to-invest?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**DPP Generator**](https://github.com/matbmoser/dpp-generator) | Digital Product Passport generator for any JSON schema | ![](https://img.shields.io/github/stars/matbmoser/dpp-generator?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**Simple Wallet**](https://github.com/matbmoser/simple-wallet) | Lightweight Python wallet for signing product-data Verifiable Credentials | ![](https://img.shields.io/github/stars/matbmoser/simple-wallet?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
+| [**SOTA**](https://github.com/matbmoser/SOTA) | Parking Time Optimization System, my final degree project, awarded Honors (UFV 2022) | ![](https://img.shields.io/github/stars/matbmoser/SOTA?style=flat-square&color=58A6FF&label=%E2%98%85&cacheSeconds=21600) |
 
 ---
 
