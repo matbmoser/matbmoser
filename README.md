@@ -18,7 +18,7 @@
 
 ### 👋 About
 
-I'm a **Computer Engineer and Software Architect** based in **Berlin**, building the open, interoperable data ecosystems behind the European automotive and manufacturing industries.
+I'm a **Computer Engineer and Software Architect** based in **Stuttgart, Germany**, building the open, interoperable data ecosystems behind the global collaborative dataspaces and manufacturing industries.
 
 - 🏗️ **Chief Software Architect** at [Catena-X Automotive Network e.V.](https://catena-x.net)
 - 🚀 **Project Lead & Committer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx)
