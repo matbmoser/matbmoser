@@ -1,182 +1,83 @@
-👋 Hi, I’m **Mathias Moser**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:2c5364&height=190&section=header&text=Mathias%20Moser&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chief%20Software%20Architect%20%E2%80%A2%20Open%20Source%20Project%20Lead&descAlignY=58&descSize=18" alt="Mathias Moser" width="100%" />
+</p>
 
-👨‍🎓 I’m am a Computer Engineer, Expert in Cybersecurity and Ethical Hacking (I am a Certified Network Defender by EC-Council)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+sovereign+data+spaces+for+the+automotive+industry;Leading+open+source+at+the+Eclipse+Foundation;Software+Architecture+%E2%80%A2+Digital+Twins+%E2%80%A2+Cybersecurity" alt="Typing intro" />
+</p>
 
-🖥️ I’m am current working as Chief Software Architect at *[Catena-X Automotive Network e.V.](https://catena-x.net)*, I am also a **Project Lead & Committer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx)! Additionally I am working at TP4.E Architecture from the [Factory-X](https://factory-x.org) Consortia.
+<p align="center">
+  <a href="https://linkedin.com/in/mathias-brunkow-moser"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mathias.moser@catena-x.net"><img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://catena-x.net"><img src="https://img.shields.io/badge/Catena--X-2c5364?style=for-the-badge&logo=databricks&logoColor=white" alt="Catena-X" /></a>
+  <a href="https://github.com/eclipse-tractusx"><img src="https://img.shields.io/badge/Eclipse%20Tractus--X-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse Tractus-X" /></a>
+</p>
 
-👀 I’m interested in Software Engineering, Software Architecture and in anything connected with technology and innovation.
+---
 
-<details open><summary>📫 You can reach me in this emails:</summary>
-<pre>
-    - Work Email: <a href="mailto:mathias.moser@catena-x.net">mathias.moser@catena-x.net</a>
-    - Personal Email: <a href="mailto:matbmoser@gmail.com">matbmoser@gmail.com</a>
-</pre>
-<details open><summary>🌍 I come from <i>Spain and Brasil</i>! You can speak with me in:</summary>
-<pre>
-    Language and Communication Skills (%):
-        - Spanish &nbsp; &nbsp; &nbsp; 0%[<a href="https://github.com/matbmoser">====================</a>]100%
-        - English &nbsp; &nbsp; &nbsp;&nbsp;0%[<a href="https://github.com/matbmoser">====================</a>]100%
-        - Portuguese &nbsp;&nbsp; 0%[<a href="https://github.com/matbmoser">====================</a>]100%
-        - German &nbsp; &nbsp; &nbsp; &ensp;0%[<a href="https://github.com/matbmoser">================</a> &nbsp; &nbsp;]100%
-</pre>
-</details>
+### 👋 About
 
+I'm a **Computer Engineer and Software Architect** based in **Berlin**, building the open, interoperable data ecosystems behind the European automotive and manufacturing industries.
 
-<details open>
-<summary>💻❤️ My Favorite Programming Languages (and frameworks/libraries): </summary>
-<br>
-<pre>
-    - Python
-        - FAST API
-        - Flask
-        - TensorFlow
-        - Jupiter Notebooks
-        - Panda & Numpy
-    - JavaScript
-        - Vue.js (v2 & v3)
-        - Vanilla
-        - TypeScript
-    - Java
-        - Spring Boot
-        - Vaadin
-    - C#
-        - ASP.NET
-    - PHP
-        - Laravel 
-    - Bash
-        - Scripting for batch processes
-        - System administration and Pipelines
-        
-    
-   > **_EXTRA:_** I know all this languages in its "Vanilla" version also (without any frameworks)
-   For Python, JavaScript and Java I like to develop little frameworks (utils or tools) so I can have control of my code ;)
-</pre>
-</details>
-<details>
-<summary>➕ Additional Programming Languages (less experience):</summary>
-<br>
-<pre>
-    - Kotlin
-        - Android 
-    - C
-    - Matlab
-    - R
-    - Go
-    - Assembler
-        - PIC 
-</pre>
-</details>
+- 🏗️ **Chief Software Architect** at [Catena-X Automotive Network e.V.](https://catena-x.net)
+- 🚀 **Project Lead & Committer** of [Eclipse Tractus-X](https://github.com/eclipse-tractusx), the open-source reference implementation of Catena-X
+- 🏭 **TP4.E Architecture** in the [Factory-X](https://factory-x.org) consortium
+- 🔐 **Certified Network Defender** (EC-Council), with a background in cybersecurity & ethical hacking
+- 🌍 Spanish 🇪🇸 · Portuguese 🇧🇷 · English 🇬🇧 · German 🇩🇪
 
-<details>
-<summary>💾 Known DataBase Languages:</summary>
-<br>
-<pre>
-    - MSSQL
-    - MYSQL
-    - Oracle SQL
-    - PSQL
-    - NOSQL (File System DBs based on JSON) + (Little Experience with MongoDB)
-</pre>
- </details>
+---
 
-<details>
-<summary>💡 Well known technologies:</summary>
-<br>
-<pre>
-    - JSON
-    - YAML
-    - XML
-    - Docker
-    - Helm Charts
-    - Kubernetes
-    - Minikube
-    - Web Sockets
-    - HTML + CSS
-    - Bootstrap
-    - HTTP Protocol
-    - Maven and Graddle
-    - Apache Jmeter
-    - Postman
-    - InteliJ
-    - Visual Studio Code
-    - Kali Linux
-    - Veracode
-    - Sonar Cloud
-    - Trivy
-    - Invicti
-    - Github Workflows (Yaml Pipelines)
-    - Jenkins
-    - Heroku
-    - Hashi Corp Vault
-    - Azure and AWS Basics
-    - Keycloak
- </pre>
- </details>
- 
-<details>
-<summary>🔥🎓 Important additional knowledge:</summary>
-<br>
-<pre>
-    - 🔒 Cryptography
-        - Hashing
-        - Encryption/Decryption (Symetric and Asymetric)
-        - Digital Certificates
-    - 🏢 Industry 4.0 and Smart Cities
-        - Knowledge about Digital Twins
-        - Knowledge about Connected Industry
-    - 🖧 IoT and Networks:
-        - MQTT
-        - Arduino
-        - Cisco IoT
-    - 🧑‍💼🔄 CI/CD
-        - Jira and Confluence (Atlassian)
-        - Microsoft Dev Ops (CI/CD)
-        - Gitlab
-        - Github
-    -🚄 High Performance Computing (Parallel Programming with Python)
-        - Cuda
-        - OpenMPI 
-    - 🔍 Forensic Informatics
-        - Autopsy
-        - Kali Linux Tools
-        - Stenography
-    - 🔏 Secure Development and Cybersecurity
-        - OWASP Pentesting Tools like OWASP ZAP (Learned with JuiceShop)
-        - IAM Management (Keycloak, Azure)
-        - Secrets Managemennt
-        - Wireshark
-    - ⛓️ Blockchain (knowledge)
-        - Polkadot
-        - Ethereum
-        - Bitcoin
-    - 👥 UI/UX HCI:
-        - Design Patterns
-        - Accesibility Compliance W3C (A, AA & AAA)
-    - ⏩ Agile Methodologies:
-        - Extreme Programming
-        - Scrum Methodology
-    - 📅 Traditional Methodologies (Requirements Engineering):
-        - Waterfall
-        - ESA Project Management
-    - 🤖Artificial Intelligence and Machine Learning
-        - Simbolic Networks
-            - Learning algorithms  
-        - Subsimbolic Networks
-            - Perceptron 
-            - Deep Learning (CNN, GAN, RNN)
-        - Genetic Algorithms 
-        - Knowledge Engineering
-    - 📊 Data Mining and Algorithms:
-        - Vector Machines 
-    - Open Source Development
-        - Eclipse Dash Tool
-        - Eclipse Foundation Collaboration 
-    - Protocols:
-        - TCP
-        - HTTP & HTTPS
-        - WebSocket
-        - TLS
-        - SJMP (Secure JSON Message Protocol) (Design by Me)
- </pre>
- </details>
-       
+### 🚀 Featured Projects
+
+| Project | Description | |
+|:--|:--|:--:|
+| [**Industry Core Hub**](https://github.com/eclipse-tractusx/industry-core-hub) | The KIT / use-case speedway for onboarding to Catena-X dataspaces | ![](https://img.shields.io/github/stars/eclipse-tractusx/industry-core-hub?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**Tractus-X SDK**](https://github.com/eclipse-tractusx/tractusx-sdk) | Dataspace & Industry Foundation middleware for building Tractus-X applications | ![](https://img.shields.io/github/stars/eclipse-tractusx/tractusx-sdk?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**Digital Product Pass**](https://github.com/eclipse-tractusx/digital-product-pass) | Reference implementation of the EcoPass KIT for Digital, Battery & Transmission Passports | ![](https://img.shields.io/github/stars/eclipse-tractusx/digital-product-pass?style=flat-square&color=58A6FF&label=%E2%98%85) |
+| [**Tractus-X Test Lab**](https://github.com/eclipse-tractusx/tractusx-testlab) | Dataspace-native testing framework automating test executables on top of the SDK | ![](https://img.shields.io/github/stars/eclipse-tractusx/tractusx-testlab?style=flat-square&color=58A6FF&label=%E2%98%85) |
+
+**Also contributing to:**
+[eclipse-tractusx/tractusx-edc](https://github.com/eclipse-tractusx/tractusx-edc) ·
+[eclipse-tractusx/sldt-digital-twin-registry](https://github.com/eclipse-tractusx/sldt-digital-twin-registry) ·
+[eclipse-tractusx/tractus-x-umbrella](https://github.com/eclipse-tractusx/tractus-x-umbrella) ·
+[eclipse-edc/IdentityHub](https://github.com/eclipse-edc/IdentityHub) ·
+[eclipse-basyx/basyx-python-sdk](https://github.com/eclipse-basyx/basyx-python-sdk) ·
+[eclipse-tractusx/sig-architecture](https://github.com/eclipse-tractusx/sig-architecture) ·
+[eclipse-tractusx/sig-security](https://github.com/eclipse-tractusx/sig-security)
+
+---
+
+### 🧭 Focus Areas
+
+<p>
+  <img src="https://img.shields.io/badge/Software%20Architecture-1f3a5f?style=flat-square" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/Data%20Spaces-1f3a5f?style=flat-square" alt="Data Spaces" />
+  <img src="https://img.shields.io/badge/Digital%20Twins%20(AAS)-1f3a5f?style=flat-square" alt="Digital Twins" />
+  <img src="https://img.shields.io/badge/Digital%20Product%20Passport-1f3a5f?style=flat-square" alt="Digital Product Passport" />
+  <img src="https://img.shields.io/badge/Self--Sovereign%20Identity-1f3a5f?style=flat-square" alt="SSI" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1f3a5f?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Governance-1f3a5f?style=flat-square" alt="Open Source Governance" />
+</p>
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,react,vue,cs&theme=dark" alt="Languages and frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,postgres,azure,aws,linux,git&theme=dark" alt="Platforms and tools" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matbmoser&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=matbmoser&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=matbmoser&theme=github-compact&hide_border=true&area=true&bg_color=0d1117" alt="Contribution graph" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1f3a5f,100:0d1117&height=110&section=footer" width="100%" alt="" />
