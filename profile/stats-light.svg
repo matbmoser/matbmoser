@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mathias Moser&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 3969, Total PRs: 493, Total Issues: 368, Contributed to (last year): 31</desc>
+        <desc id="descId">Total Commits  : 3982, Total PRs: 494, Total Issues: 373, Contributed to (last year): 31</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 72.48455390093186;
+        stroke-dashoffset: 72.45952797011067;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >493</text>
+      >494</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >368</text>
+      >373</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
